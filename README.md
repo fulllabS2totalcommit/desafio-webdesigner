@@ -10,3 +10,6 @@ Dicas:
 - Caso queira, pode descrever o seu processo de criação da interface.
 - Você está livre para definir a diagramação dos elementos e corrigir
 quaisquer pontos que julgar necessário.
+
+
+![alt text](http://i.imgur.com/k2w9h6S.png)
