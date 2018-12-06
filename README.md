@@ -12,4 +12,4 @@ Dicas:
 quaisquer pontos que julgar necessário.
 
 
-![alt text](http://i.imgur.com/k2w9h6S.png)
+![alt text](https://i.imgur.com/K9kEbhR.png)
